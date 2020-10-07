@@ -1,3 +1,3 @@
 # InstaChevin Wordpress Theme
 
-The theme behind [whereschevin.com](http://whereschevin.com), [littlechevin.com](http://littlechevin.com), and [chevin247.com](http://chevin247.com)
+The theme behind [whereschevin.com](https://whereschevin.com) and [littlechevin.com](https://littlechevin.com).
