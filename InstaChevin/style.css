@@ -1,7 +1,7 @@
 /*
 Theme Name: InstaChevin
-Author: Kevin Cat
-Description: InstaChevin is the base theme for all Chevin sites
+Author: Kevin Slifer
+Description: The theme behind whereschevin.com and littlechevin.com.
 
 Version: 1.0
 Text Domain: InstaChevin
@@ -117,22 +117,9 @@ img.size-full {
 	 box-shadow: 1px 1px 1px rgba(0,0,0,.1);
 }
 
-/*.site-logo {
+.site-logo {
     display: flex;
     justify-content:space-between;
-}
-
-.micro-logo-bar {
-    display: flex;
-    justify-content:space-between;
-}
-
-.micro-logo-bar {
-    margin-left: 0px;
-}*/
-
-.micrologo {
-    margin: 3px;
 }
 
 .site-logo:hover {
@@ -156,29 +143,6 @@ img.size-full {
 		opacity: 1;
 	}
 }
-
-.micrologo:hover {
-	opacity: 1;
-	-webkit-animation: flash 1.5s;
-	animation: flash 1.5s;
-}
-@-webkit-keyframes flash {
-	0% {
-		opacity: .4;
-	}
-	100% {
-		opacity: 1;
-	}
-}
-@keyframes flash {
-	0% {
-		opacity: .4;
-	}
-	100% {
-		opacity: 1;
-	}
-}
-
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {

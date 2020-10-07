@@ -36,11 +36,6 @@
 
 				<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
 				
-				<div class="micro-logo-bar">
-					<a href="http://whereschevin.com"><img class="micrologo" src="<?php echo esc_url( get_template_directory_uri( '/' ) ); ?>/img/micrologo-whereschevin.png"></a>
-					<a href="http://littlechevin.com"><img class="micrologo" src="<?php echo esc_url( get_template_directory_uri( '/' ) ); ?>/img/micrologo-littlechevin.png"></a>
-					<a href="http://chevin247.com"><img class="micrologo" src="<?php echo esc_url( get_template_directory_uri( '/' ) ); ?>/img/micrologo-chevin247.png"></a>
-				</div>
 			</div><!-- .site-branding -->
 
 			<nav id="site-navigation" class="main-navigation" role="navigation">
