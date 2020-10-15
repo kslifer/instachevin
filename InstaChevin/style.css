@@ -1034,3 +1034,9 @@ li.bypostauthor > .comment-content {
     }
 	
 }
+
+/* =Image Border Radius 
+----------------------------------------------- */
+
+.wp-post-image { border-radius: 20px; }
+.wp-block-image * { border-radius: 20px; }
